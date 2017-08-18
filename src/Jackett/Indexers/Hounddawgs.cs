@@ -15,8 +15,6 @@ using System.Net.Http;
 using System.Net.Http.Headers;
 using System.Text;
 using System.Threading.Tasks;
-using System.Web;
-using System.Web.UI.WebControls;
 using Jackett.Models.IndexerConfig;
 using System.Collections.Specialized;
 using System.Text.RegularExpressions;
